@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IdQFnVRkZFI=",
+  "dgSpecHash": "v/VgUJOnA/A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\CloudWeather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

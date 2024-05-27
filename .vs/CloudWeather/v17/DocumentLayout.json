@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23D6BE33-2B39-4064-9E1E-8A16627871E1}|CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj|c:\\users\\asus\\desktop\\cloudweather.webapi.microservices\\cloudweather.precipitation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D6BE33-2B39-4064-9E1E-8A16627871E1}|CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj|solutionrelative:cloudweather.precipitation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62396887-FD79-4614-9AC8-D8D296B74E86}|CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj|c:\\users\\asus\\desktop\\cloudweather.webapi.microservices\\cloudweather.dataloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396887-FD79-4614-9AC8-D8D296B74E86}|CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj|solutionrelative:cloudweather.dataloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91ECA3F5-7AE5-4272-BB7A-07609C94ADC8}|CloudWeather.Temperature\\CloudWeather.Temperature.csproj|c:\\users\\asus\\desktop\\cloudweather.webapi.microservices\\cloudweather.temperature\\cloudweather.temperature.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91ECA3F5-7AE5-4272-BB7A-07609C94ADC8}|CloudWeather.Temperature\\CloudWeather.Temperature.csproj|solutionrelative:cloudweather.temperature\\cloudweather.temperature.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0CF6A4A-A59A-485F-BA4C-8D86D7669E7D}|CloudWeather.Report\\CloudWeather.Report.csproj|c:\\users\\asus\\desktop\\cloudweather.webapi.microservices\\cloudweather.report\\cloudweather.report.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0CF6A4A-A59A-485F-BA4C-8D86D7669E7D}|CloudWeather.Report\\CloudWeather.Report.csproj|solutionrelative:cloudweather.report\\cloudweather.report.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D6BE33-2B39-4064-9E1E-8A16627871E1}|CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj|c:\\users\\asus\\desktop\\cloudweather.webapi.microservices\\cloudweather.precipitation\\cloudweather.precipitation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23D6BE33-2B39-4064-9E1E-8A16627871E1}|CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj|solutionrelative:cloudweather.precipitation\\cloudweather.precipitation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.DataLoader\\Program.cs",
+              "RelativeDocumentMoniker": "CloudWeather.DataLoader\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.DataLoader\\Program.cs",
+              "RelativeToolTip": "CloudWeather.DataLoader\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:49:14.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CloudWeather.Temperature",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+              "RelativeDocumentMoniker": "CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+              "RelativeToolTip": "CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T14:48:00.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CloudWeather.Report",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Report\\CloudWeather.Report.csproj",
+              "RelativeDocumentMoniker": "CloudWeather.Report\\CloudWeather.Report.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Report\\CloudWeather.Report.csproj",
+              "RelativeToolTip": "CloudWeather.Report\\CloudWeather.Report.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T14:47:46.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CloudWeather.Precipitation",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
+              "RelativeDocumentMoniker": "CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
+              "RelativeToolTip": "CloudWeather.Precipitation\\CloudWeather.Precipitation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T14:47:06.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Precipitation\\Program.cs",
+              "RelativeDocumentMoniker": "CloudWeather.Precipitation\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Precipitation\\Program.cs",
+              "RelativeToolTip": "CloudWeather.Precipitation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:17:15.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

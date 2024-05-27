@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudWeather.Temperature")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aae8cda5b5318b13dbcae1c9f95e1fdd529ba6d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+654a90a598855e0145fef7a637ac5697cdadc583")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudWeather.Temperature")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudWeather.Temperature")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

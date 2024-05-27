@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\CloudWeather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
       "projectName": "CloudWeather.DataLoader",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\CloudWeather\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.DataLoader\\CloudWeather.DataLoader.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\CloudWeather\\CloudWeather.DataLoader\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.DataLoader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

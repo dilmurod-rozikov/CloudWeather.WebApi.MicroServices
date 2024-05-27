@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\CloudWeather.WebApi.MicroServices\CloudWeather.DataLoader\obj\Debug\net8.0\CloudWeather.DataLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CloudWeather.WebApi.MicroServices\CloudWeather.DataLoader\obj\Debug\net8.0\CloudWeather.DataLoader.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CloudWeather.WebApi.MicroServices\CloudWeather.DataLoader\obj\Debug\net8.0\CloudWeather.DataLoader.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CloudWeather.WebApi.MicroServices\CloudWeather.DataLoader\obj\Debug\net8.0\CloudWeather.DataLoader.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CloudWeather.WebApi.MicroServices\CloudWeather.DataLoader\obj\Debug\net8.0\CloudWeather.DataLoader.sourcelink.json

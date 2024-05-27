@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\CloudWeather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\CloudWeather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj": {
+    "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\CloudWeather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
         "projectName": "CloudWeather.Temperature",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\CloudWeather\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Temperature\\CloudWeather.Temperature.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\CloudWeather\\CloudWeather.Temperature\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\CloudWeather.WebApi.MicroServices\\CloudWeather.Temperature\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,34 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
